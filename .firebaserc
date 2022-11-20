@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "chainvote-b28d0",
+    "chainvote": "chainvote-b28d0",
+    "chainvote-b28d0": "chainvote-b28d0"
+  },
+  "targets": {},
+  "etags": {}
+}
